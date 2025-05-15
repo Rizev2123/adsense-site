@@ -1,1 +1,6 @@
-Delete articles file
+git clone https://github.com/Rizev2123/adsense-site.git
+cd adsense-site
+git rm articles
+git commit -m "Remove articles file to create articles folder"
+git push
+
